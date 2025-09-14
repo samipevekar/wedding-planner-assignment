@@ -5,7 +5,7 @@ A beautiful React Native application for managing wedding guests with both manua
 <div align="center"> <img src="./screenshots/home.png" width="200" height='360' alt="Home Screen"> <img src="./screenshots/guest-list.png" width="200" height='360' alt="Guest List"> </div>
 
 ## Download App
-### Link
+### Link https://drive.google.com/file/d/1KkWTCnYishlib0V2jnvunVs_Asl8ypVu/view?usp=sharing
 
 ## Features ✨
 
